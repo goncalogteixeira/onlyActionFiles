@@ -20,4 +20,4 @@ for original, new in warnings:
     
 ## apply monkey patches
 export2html._nb2htmlfname = _nb2htmlfname
-export2html.notebook2html(fname='_notebooks/*.ipynb', dest='_posts/', template_file='/fastpages/_action_files/fastpages.tpl')
+export2html.notebook2html(fname='/fastpages/_notebooks/*.ipynb', dest='fastpages/_posts/', template_file='/fastpages.tpl')

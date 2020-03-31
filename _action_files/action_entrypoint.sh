@@ -10,9 +10,10 @@ eval "$(ssh-agent -s)"
 # word converter using pandoc
 #/fastpages/word2post.sh
 # notebook converter using nbdev
- cp /fastpages/_action_files/settings.ini .
+ # cp /fastpages/settings.ini .
 echo 'New Run'
 ls /data | echo
-python /fastpages/_action_files/nb2post.py
+mkdir -p /fastpages/_posts
+python nb2post.py
 
 
