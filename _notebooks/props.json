@@ -1,0 +1,254 @@
+[
+    {
+        "prop": {
+            "title": "APARTAMENTO T3 NO FEIJO R/C ALTO",
+            "location": "Almada, Laranjeiro e Feijo, Feijo",
+            "price": "149 900 EUR",
+            "link": "https://www.century21.pt/comprar/apartamento/almada/apartamento-t3-95m2-apartamento-t3-no-feijo-r-c-alto-laranjeiro-e-feijo-feijo-2035479",
+            "img_url": "https://cdn.21onlineapp.com/assets/images/apt-t3-feijo_0e6fd1c4-22b9-4b73-8696-ecb2103fae81.jpg?down.colorspace=linear&f.sharpen=50&w=400&h=282&scale=both&mode=crop&format=jpg&quality=85"
+        },
+        "specs": {
+            "type_prop": "Apartamento",
+            "ref": "0739-02279",
+            "state_sale": "Venda",
+            "useful_area": "95",
+            "gross_area": "100",
+            "state_prop": "Bom",
+            "nrooms": "3 Quartos",
+            "nbaths": "1 Casa de banho",
+            "construction_year": "1984",
+            "energetic_cert": "C"
+        }
+    },
+    {
+        "prop": {
+            "title": "Apartamento T2 em Torres Novas",
+            "location": "Torres Novas, Torres Novas (Santa Maria Salvador e Santiago), Centro (Santa Maria)",
+            "price": "87 500 EUR",
+            "link": "https://www.century21.pt/comprar/apartamento/torres-novas/apartamento-t2-101m2-apartamento-t2-em-torres-novas-torres-novas-santa-maria-salvador-e-santiago-centro-santa-maria-2030236",
+            "img_url": "https://cdn.21onlineapp.com/assets/images/img-20200228-163542_e68db89c-18d4-4144-90ae-2b3bc53a5e60.jpg?down.colorspace=linear&f.sharpen=50&w=400&h=282&scale=both&mode=crop&format=jpg&quality=85"
+        },
+        "specs": {
+            "type_prop": "Apartamento",
+            "ref": "C0269-00772",
+            "state_sale": "Venda",
+            "useful_area": "101",
+            "gross_area": "124",
+            "state_prop": "Bom",
+            "nrooms": "2 Quartos",
+            "nbaths": "1 Casa de banho",
+            "construction_year": "16",
+            "energetic_cert": "1 Box Fechada"
+        }
+    },
+    {
+        "prop": {
+            "title": "T1 , 2 assoalhadas na Quinta dos Alcoutins",
+            "location": "Lisboa, Lumiar",
+            "price": "236 900 EUR",
+            "link": "https://www.century21.pt/comprar/apartamento/lisboa/apartamento-t1-56m2-t1-2-assoalhadas-na-quinta-dos-alcoutins-lumiar-2034519",
+            "img_url": "https://cdn.21onlineapp.com/assets/images/mas20243_ee3a83aa-d432-4286-a010-486e61e5675e.jpg?down.colorspace=linear&f.sharpen=50&w=400&h=282&scale=both&mode=crop&format=jpg&quality=85"
+        },
+        "specs": {
+            "type_prop": "Apartamento",
+            "ref": "C0246-01946",
+            "state_sale": "Venda",
+            "useful_area": "56",
+            "gross_area": "60",
+            "state_prop": "Excelente",
+            "nrooms": "1 Quarto",
+            "nbaths": "1 Casa de banho",
+            "construction_year": "2019",
+            "energetic_cert": "1 Garagem"
+        }
+    },
+    {
+        "prop": {
+            "title": "T2 , 3 assoalhadas na Quinta dos Alcoutins",
+            "location": "Lisboa, Lumiar",
+            "price": "489 250 EUR",
+            "link": "https://www.century21.pt/comprar/apartamento/lisboa/apartamento-t2-122m2-t2-3-assoalhadas-na-quinta-dos-alcoutins-lumiar-2034523",
+            "img_url": "https://cdn.21onlineapp.com/assets/images/mas20243_968ab981-8583-4ed8-ac8f-322b15c03ba5.jpg?down.colorspace=linear&f.sharpen=50&w=400&h=282&scale=both&mode=crop&format=jpg&quality=85"
+        },
+        "specs": {
+            "type_prop": "Apartamento",
+            "ref": "C0246-01950",
+            "state_sale": "Venda",
+            "useful_area": "122",
+            "gross_area": "134",
+            "state_prop": "Excelente",
+            "nrooms": "2 Quartos",
+            "nbaths": "2 Casas de banho",
+            "construction_year": "2019",
+            "energetic_cert": "1 Garagem"
+        }
+    },
+    {
+        "prop": {
+            "title": "T1 , 2 assoalhadas com terraco de 15 m2 na Quinta dos Alcoutins",
+            "location": "Lisboa, Lumiar",
+            "price": "247 200 EUR",
+            "link": "https://www.century21.pt/comprar/apartamento/lisboa/apartamento-t1-60m2-t1-2-assoalhadas-com-terraco-de-15-m2-na-quinta-dos-alcoutins-lumiar-2034510",
+            "img_url": "https://cdn.21onlineapp.com/assets/images/088testevista1_ca6d7dec-96af-42a6-9321-b7dd6da53da8.jpg?down.colorspace=linear&f.sharpen=50&w=400&h=282&scale=both&mode=crop&format=jpg&quality=85"
+        },
+        "specs": {
+            "type_prop": "Apartamento",
+            "ref": "C0246-01943",
+            "state_sale": "Venda",
+            "useful_area": "60",
+            "gross_area": "75",
+            "state_prop": "Excelente",
+            "nrooms": "1 Quarto",
+            "nbaths": "1 Casa de banho",
+            "construction_year": "2021",
+            "energetic_cert": "1 Garagem"
+        }
+    },
+    {
+        "prop": {
+            "title": "T1 , 2 assoalhadas na Quinta dos Alcoutins",
+            "location": "Lisboa, Lumiar",
+            "price": "257 500 EUR",
+            "link": "https://www.century21.pt/comprar/apartamento/lisboa/apartamento-t1-55m2-t1-2-assoalhadas-na-quinta-dos-alcoutins-lumiar-2034517",
+            "img_url": "https://cdn.21onlineapp.com/assets/images/mas29901_4bebac1e-32b3-42ce-9456-4060552b179a.jpg?down.colorspace=linear&f.sharpen=50&w=400&h=282&scale=both&mode=crop&format=jpg&quality=85"
+        },
+        "specs": {
+            "type_prop": "Apartamento",
+            "ref": "C0246-01944",
+            "state_sale": "Venda",
+            "useful_area": "55",
+            "gross_area": "55",
+            "state_prop": "Excelente",
+            "nrooms": "1 Quarto",
+            "nbaths": "1 Casa de banho",
+            "construction_year": "2019",
+            "energetic_cert": "1 Garagem"
+        }
+    },
+    {
+        "prop": {
+            "title": "T2 , 3 assoalhadas na Quinta dos Alcoutins",
+            "location": "Lisboa, Lumiar",
+            "price": "463 500 EUR",
+            "link": "https://www.century21.pt/comprar/apartamento/lisboa/apartamento-t2-118m2-t2-3-assoalhadas-na-quinta-dos-alcoutins-lumiar-2034518",
+            "img_url": "https://cdn.21onlineapp.com/assets/images/c0246-01083_943863f3-f55e-495f-915c-1f7eb6d7dfe1.jpg?down.colorspace=linear&f.sharpen=50&w=400&h=282&scale=both&mode=crop&format=jpg&quality=85"
+        },
+        "specs": {
+            "type_prop": "Apartamento",
+            "ref": "C0246-01945",
+            "state_sale": "Venda",
+            "useful_area": "118",
+            "gross_area": "118",
+            "state_prop": "Excelente",
+            "nrooms": "2 Quartos",
+            "nbaths": "2 Casas de banho",
+            "construction_year": "2019",
+            "energetic_cert": "1 Garagem"
+        }
+    },
+    {
+        "prop": {
+            "title": "T1, 2 assoalhadas na Quinta dos Alcoutins",
+            "location": "Lisboa, Lumiar",
+            "price": "267 800 EUR",
+            "link": "https://www.century21.pt/comprar/apartamento/lisboa/apartamento-t1-57m2-t1-2-assoalhadas-na-quinta-dos-alcoutins-lumiar-2034522",
+            "img_url": "https://cdn.21onlineapp.com/assets/images/mas20239_4783058a-4e76-44f7-bc26-3081bf6dc1ac.jpg?down.colorspace=linear&f.sharpen=50&w=400&h=282&scale=both&mode=crop&format=jpg&quality=85"
+        },
+        "specs": {
+            "type_prop": "Apartamento",
+            "ref": "C0246-01949",
+            "state_sale": "Venda",
+            "useful_area": "57",
+            "gross_area": "63",
+            "state_prop": "Excelente",
+            "nrooms": "1 Quarto",
+            "nbaths": "1 Casa de banho",
+            "construction_year": "2019",
+            "energetic_cert": "1 Garagem"
+        }
+    },
+    {
+        "prop": {
+            "title": "T1, 2 assoalhadas na Quinta dos Alcoutins",
+            "location": "Lisboa, Lumiar",
+            "price": "236 900 EUR",
+            "link": "https://www.century21.pt/comprar/apartamento/lisboa/apartamento-t1-56m2-t1-2-assoalhadas-na-quinta-dos-alcoutins-lumiar-2034524",
+            "img_url": "https://cdn.21onlineapp.com/assets/images/088testevista1_9098f1f5-e599-48ec-9c1e-a90523951032.jpg?down.colorspace=linear&f.sharpen=50&w=400&h=282&scale=both&mode=crop&format=jpg&quality=85"
+        },
+        "specs": {
+            "type_prop": "Apartamento",
+            "ref": "C0246-01951",
+            "state_sale": "Venda",
+            "useful_area": "56",
+            "gross_area": "59",
+            "state_prop": "Excelente",
+            "nrooms": "1 Quarto",
+            "nbaths": "1 Casa de banho",
+            "construction_year": "2019",
+            "energetic_cert": "1 Garagem"
+        }
+    },
+    {
+        "prop": {
+            "title": "T3, 4 assoalhadas na Quinta dos Alcoutins",
+            "location": "Lisboa, Lumiar",
+            "price": "587 100 EUR",
+            "link": "https://www.century21.pt/comprar/apartamento/lisboa/apartamento-t3-154m2-t3-4-assoalhadas-na-quinta-dos-alcoutins-lumiar-2034520",
+            "img_url": "https://cdn.21onlineapp.com/assets/images/088testevista1_717c23c0-ae37-48e8-8d99-16957e805592.jpg?down.colorspace=linear&f.sharpen=50&w=400&h=282&scale=both&mode=crop&format=jpg&quality=85"
+        },
+        "specs": {
+            "type_prop": "Apartamento",
+            "ref": "C0246-01947",
+            "state_sale": "Venda",
+            "useful_area": "154",
+            "gross_area": "168",
+            "state_prop": "Excelente",
+            "nrooms": "3 Quartos",
+            "nbaths": "3 Casas de banho",
+            "construction_year": "2021",
+            "energetic_cert": "2 Garagens"
+        }
+    },
+    {
+        "prop": {
+            "title": "T2, 3 assoalhadas na Quinta dos Alcoutins",
+            "location": "Lisboa, Lumiar",
+            "price": "494 400 EUR",
+            "link": "https://www.century21.pt/comprar/apartamento/lisboa/apartamento-t2-126m2-t2-3-assoalhadas-na-quinta-dos-alcoutins-lumiar-2034521",
+            "img_url": "https://cdn.21onlineapp.com/assets/images/088testevista1_ac9b9c91-03e6-4300-b4dc-205cc8ed517b.jpg?down.colorspace=linear&f.sharpen=50&w=400&h=282&scale=both&mode=crop&format=jpg&quality=85"
+        },
+        "specs": {
+            "type_prop": "Apartamento",
+            "ref": "C0246-01948",
+            "state_sale": "Venda",
+            "useful_area": "126",
+            "gross_area": "146",
+            "state_prop": "Excelente",
+            "nrooms": "2 Quartos",
+            "nbaths": "2 Casas de banho",
+            "construction_year": "2019",
+            "energetic_cert": "1 Garagem"
+        }
+    },
+    {
+        "prop": {
+            "title": "T2 no coracao das Paivas - Perto de todo o tipo de comercio!",
+            "location": "Seixal, Amora, Paivas",
+            "price": "120 000 EUR",
+            "link": "https://www.century21.pt/comprar/apartamento/seixal/apartamento-t2-82m2-t2-no-coracao-das-paivas-perto-de-todo-o-tipo-de-comercio-amora-paivas-2019004",
+            "img_url": "https://cdn.21onlineapp.com/assets/images/20200304-104328_a5329dd7-9483-4fd9-8191-68bdeeaa2353.jpg?down.colorspace=linear&f.sharpen=50&w=400&h=282&scale=both&mode=crop&format=jpg&quality=85"
+        },
+        "specs": {
+            "type_prop": "Apartamento",
+            "ref": "0651-03073",
+            "state_sale": "Venda",
+            "useful_area": "82",
+            "gross_area": "82",
+            "state_prop": "Bom",
+            "nrooms": "2 Quartos",
+            "nbaths": "1 Casa de banho",
+            "construction_year": "1981",
+            "energetic_cert": "D"
+        }
+    }
+]
