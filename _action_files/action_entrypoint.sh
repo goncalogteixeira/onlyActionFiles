@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 # docker build --tag converter:1.1 ./_action_files
-# docker run --rm -v C:\Users\GonçaloTeixeira(1170\Documents\3Ano\Devscope\fastPagesGoncalo:/fastpages    converter:1.1
+# docker run --rm -v C:\Users\GonçaloTeixeira(1170\Documents\3Ano\Devscope\onlyActionFiles:/fastpages    converter:1.1
 # setup ssh: allow key to be used without a prompt and start ssh agent
 export GIT_SSH_COMMAND="ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no"
 eval "$(ssh-agent -s)"
