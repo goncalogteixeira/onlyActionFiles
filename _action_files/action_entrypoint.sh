@@ -13,7 +13,13 @@ eval "$(ssh-agent -s)"
  # cp /fastpages/settings.ini .
 echo 'New Run'
 ls /data | echo
-mkdir -p /fastpages/_posts
+mkdir -p /data/A
+#jupyter nbconvert --to notebook --execute --ExecutePreprocessor.timeout=180 /data/*.ipynb
 python nb2post.py
+cp /data/sitespeedio/Report/*.html /data/sitespeedio/Report/previous/ 
+
+#rm -f /data/*.nbconvert.ipynb
 
 
+python finalMove.py
+rm -rf /data/A

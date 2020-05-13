@@ -10,7 +10,7 @@ RUN chmod u+x action_entrypoint.sh
  RUN mkdir -p /fastpages/_posts
  #RUN cd /fastpages
  #RUN git clone https://github.com/goncalogteixeira/onlyActionFiles.git
- RUN ls 
+ #RUN ls 
  #COPY ./onlyActionFiles/_action_files ./_action_files
 # Expose /source as an external volume
 VOLUME /data

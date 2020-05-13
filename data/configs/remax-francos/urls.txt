@@ -1,0 +1,6 @@
+https://remaxdev-francos.devscope.net:444/ Remax-Francos
+https://remaxdev-francos.devscope.net:444/comprar-imoveis 
+https://remaxdev-francos.devscope.net:444/arrendar-imoveis
+https://remaxdev-francos.devscope.net:444/agentes
+https://remaxdev-francos.devscope.net:444/empreendimento
+https://remaxdev-francos.devscope.net:444/imoveis/venda-arrendamento-regiao/125731017-14
